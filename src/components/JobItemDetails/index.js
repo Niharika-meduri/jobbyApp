@@ -49,7 +49,7 @@ class JobItemDetails extends Component {
     console.log(detailsData)
     return (
       <div>
-        <h1>you got it</h1>
+        <h1>job description</h1>
       </div>
     )
   }
